@@ -17,6 +17,7 @@
 * [Coq](#coq)
 * [Fortran](#fortran)
 * [Git](#git)
+* [Go](#go)
 * [Haskell](#haskell)
 * [HTML and CSS](#css)
 * [Java](#java)
@@ -129,7 +130,7 @@
 ### Chaîne de blocs / Blockchain
 
 * [Maîtriser Bitcoin: Programmer la chaîne de blocs publique](https://bitcoin.maitriser.ca) - Andreas M. Antonopoulos, Serafim Dos Santos (asciidoc, HTML)
-* [Maîtriser Ethereum: Développer des contrats intelligents et des DApps](https://ethereum.maitriser.ca) - Andreas M. Antonopoulos, Dr. Gavin Wood, Serafim Dos Santos (asciidoc, HTML)
+* [Maîtriser Ethereum: Développer des contrats intelligents et des DApps](https://ethereum.maitriser.ca) - Andreas M. Antonopoulos, Gavin Wood, Serafim Dos Santos (asciidoc, HTML)
 
 
 ### Coq
@@ -150,6 +151,11 @@
 
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) - Ben Lynn, `trl.:` Alexandre Garel, `trl.:` Paul Gaborit, `trl.:` Nicolas Deram (HTML, PDF)
 * [Pro Git](http://www.git-scm.com/book/fr/) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
+
+
+### Go
+
+* [Développer une application Web en Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/fr/) - astaxie
 
 
 ### Java
@@ -224,11 +230,6 @@
 * [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) - Robert Strandh, Irène Durand
 
 
-### Mathématiques
-
-* [Calcul mathématique avec Sage](https://web.archive.org/web/20210715234128/http://sagebook.gforge.inria.fr/) - Paul Zimmermann, et al. *(:card_file_box: archived)*
-
-
 ### Lua
 
 * [Introduction à la programmation Lua](http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html)
@@ -254,7 +255,8 @@
 
 #### Symfony
 
-* [En route pour Symfony 5](https://symfony.com/doc/5.0/the-fast-track/fr/index.html) - Fabien Potencier
+* [En route pour Symfony 5.4](https://symfony.com/doc/5.4/the-fast-track/fr/index.html) - Fabien Potencier
+* [En route pour Symfony 6.2](https://symfony.com/doc/current/the-fast-track/fr/index.html) - Fabien Potencier
 
 
 ### Processing
@@ -300,7 +302,7 @@
 
 ### Sage
 
-* [Calcul mathématique avec Sage](https://hal.inria.fr/inria-00540485/file/sagebook-web-20130530.pdf) - A. Casamayou, N. Cohen, G. Connan, T. Dumont, L. Fousse, F. Maltey, M. Meulien, M. Mezzarobba, C. Pernet, N. M. Thiéry, P. Zimmermann (PDF)
+* [Calcul mathématique avec Sage](https://hal.inria.fr/inria-00540485/file/sagebook-web-20130530.pdf) - P. Zimmermann, et al. (PDF)
 
 
 ### Scilab

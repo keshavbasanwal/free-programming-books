@@ -6,6 +6,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Delphi](#delphi)
 * [Git](#git)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
@@ -28,7 +29,7 @@
 
 ### APL
 
-* [Découvrez le langage APL](https://www.youtube.com/watch?v=Nxq1BUUXobM&list=PLYKQVqyrAEj_DwkVAvj7xHxr72ite69nW) - Schraf : Maths-info
+* [Découvrez le langage APL](https://www.youtube.com/playlist?list=PLIz4PfDd5D29oOW61VkB4MHxGurtSCmhh) - Schraf : Maths-info
 
 
 ### Bash / Shell
@@ -54,6 +55,11 @@
 ### <a id="cpp"></a>C++
 
 * [La programmation en C++ moderne](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/) - Zeste de savoir informaticienzero mehdidou99
+
+
+### Delphi
+
+* [Apprendre la programmation avec Delphi](https://apprendre-delphi.fr/apprendre-la-programmation-avec-delphi-2020.php) - Patrick Prémartin
 
 
 ### Git

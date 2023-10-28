@@ -57,6 +57,7 @@ ADV - Продвинутый. Тонкости.
 
 ### Go
 
+* [Основы Go](https://ru.hexlet.io/courses/go-basics) - Hexlet (BEG)
 * [Программирование на Golang](https://stepik.org/course/54403) - Stepik (BEG)
 * [Go (Golang) - первое знакомство](https://stepik.org/course/100208) - Stepik (BEG)
 
@@ -78,7 +79,6 @@ ADV - Продвинутый. Тонкости.
 * [Курс тест по Java](https://github.com/peterarsentev/course_test) - Пётр Арсентьев (BEG)
 * [Легкий старт в Java. Вводный курс для чайников](https://stepik.org/course/90684) - Stepik (BEG)
 * [Java для начинающих](https://ru.code-basics.com/languages/java) (BEG)
-* [Java. Путь от ученика до эксперта.](http://www.job4j.ru/courses/java_way_from_student_to_master.html) - Пётр Арсентьев (INT)
 
 
 ### JavaScript
@@ -89,6 +89,7 @@ ADV - Продвинутый. Тонкости.
 * [Объектно ориентированное](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/OOP.md) - Тимур Шемсединов (INT)
 * [Основы программирования](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0) - Тимур Шемсединов (INT)
 * [Основы программирования](https://ru.hexlet.io/courses/programming-basics) - Hexlet (BEG)
+* [Основы JavaScript](https://ru.hexlet.io/courses/js-basics) - Hexlet (BEG)
 * [Парадигмы программирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Paradigms.md) - Тимур Шемсединов (INT)
 * [Параллельное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Parallel.md) - Тимур Шемсединов (INT)
 * [Современный учебник JavaScript](https://learn.javascript.ru) - Илья Кантор (INT)
@@ -147,6 +148,7 @@ ADV - Продвинутый. Тонкости.
 * [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575) - Stepik (INT)
 * [Добрый, добрый Python - обучающий курс от Сергея Балакирева](https://stepik.org/course/100707) - Сергей Балакирев (Stepik) (BEG)
 * [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG)
+* [Основы Python](https://ru.hexlet.io/courses/python-basics) - Hexlet (BEG)
 * [Питонтьютор: Бесплатный курс по программированию с нуля](https://pythontutor.ru) - Виталий Павленко, Владимир Соломатин, Д. П. Кириенко, команда Pythontutor (BEG)
 * ["Поколение Python": курс для начинающих](https://stepik.org/course/58852) - Тимур Гуев, Руслан Чаниев, Анри Табуев (Stepik) (BEG)
 * ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343) - Тимур Гуев, Руслан Чаниев, Благотворительный фонд "Айкью Опшн" (Stepik) (INT)
